@@ -14,7 +14,7 @@
     "@react-native-community/netinfo": "^9.3.10",
     "@types/react": "~18.0.27",
     "amazon-cognito-identity-js": "^6.3.1",
-    "aws-amplify": "^5.2.7",
+    "aws-amplify": "^5.3.2",
     "expo": "~48.0.18",
     "expo-image-picker": "~14.1.1",
     "expo-status-bar": "~1.4.4",
