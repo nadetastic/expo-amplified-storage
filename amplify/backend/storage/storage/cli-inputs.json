@@ -1,0 +1,14 @@
+{
+  "resourceName": "storage",
+  "policyUUID": "2e60c3d0",
+  "bucketName": "storage-bucket-for-reproductions",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
